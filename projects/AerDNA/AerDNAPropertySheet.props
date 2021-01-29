@@ -3,7 +3,7 @@
   <ImportGroup Label="PropertySheets" />
   <PropertyGroup Label="UserMacros">
     <zSpaceDir>D:/zSpace/cpp</zSpaceDir>
-    <RhinoDir>C:\Program Files\Rhino 6 SDK</RhinoDir>
+    <RhinoDir>C:\Program Files\Rhino 7 SDK</RhinoDir>
   </PropertyGroup>
   <PropertyGroup />
   <ItemDefinitionGroup />
